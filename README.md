@@ -12,13 +12,13 @@
 
 - reverse_grain: reads the buffer backwards (plays grains in reverse).
 
-////////
+# ////////
 - wave_spacing_on: toggle to use wave_cycling and wave_spacing.
 
 - wave_cycling: it creates a cycle of grains (each one offset by  wave_spacing amount ), where the number of grains in the cycle is set by the specified amount. 
 - wave_spacing: increments the start point of each grain by set amount (time in ms).
 
-////////
+# ////////
 - grain_panning: adds panning to each grain (for most times it doesn't work properly, I get clicks and pops).
 
 - Assign MIDI modhweel function.
